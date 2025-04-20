@@ -1,0 +1,13 @@
+npm tailwindcss init   --> doesnot work with newerversion refrens -->  https://github.com/tailwindlabs/tailwindcss/discussions/14760
+
+using tailwindcss3 latest version is tailwindcss4
+
+
+usind express for backend routing purpose.
+
+using nodemon for automatic server lauch after the changes. front end does it automaticlly.
+
+
+npm nodemon server/server not working so use npx nodemon server/server.
+
+toast notification not compatible with react 19 use react 18 instead.
